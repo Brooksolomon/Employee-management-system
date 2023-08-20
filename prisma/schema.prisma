@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlserver"
+  url      = env("DATABASE_URL")
+}
+
+model staff {
+  empId      Int     @id(map: "PK__staff__AFB3EC0D52C7CE2F") @default(autoincrement())
+  FirstName  String? @db.VarChar(20)
+  LastName   String? @db.VarChar(30)
+  Sex        String? @db.VarChar(10)
+  Skill      String? @db.VarChar(20)
+  SkillType  String? @db.VarChar(30)
+  School     String? @db.VarChar(20)
+  SchoolAdd  String? @db.VarChar(20)
+  SkillLevel Int?
+}
