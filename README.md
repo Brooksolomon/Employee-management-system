@@ -1,3 +1,18 @@
+A simple employee managment system with Svelte JS, Prisma and Microsoft SQL server
+
+
+
+
+![Screenshot (248)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/3eedb528-a848-4b25-aea7-da3e4c2e1cd5)
+
+
+![Screenshot (249)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/fb4b70ba-27db-4a93-bf09-c4cc4e18d121)
+
+
+![Screenshot (249)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/7e7bb3a3-5b89-40d4-9f9b-94b6f05d71f8)
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
