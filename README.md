@@ -2,14 +2,9 @@ A simple employee managment system with Svelte JS, Prisma and Microsoft SQL serv
 
 
 
-
-![Screenshot (248)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/3eedb528-a848-4b25-aea7-da3e4c2e1cd5)
-
-
-![Screenshot (249)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/fb4b70ba-27db-4a93-bf09-c4cc4e18d121)
-
-
-![Screenshot (250)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/0092a148-9af1-499f-bfa4-a0ecfbc68bb6)
+![Screenshot (251)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/504201aa-1441-4f38-8f91-b3f83c42a587)
+![Screenshot (252)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/3dc79e3b-edef-44df-bf1f-ae19e2a01ce9)
+![Screenshot (253)](https://github.com/Brooksolomon/Employee-management-system/assets/86517756/1582b903-e7ad-4458-b999-9637d6101a54)
 
 
 
