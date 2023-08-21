@@ -117,18 +117,18 @@ $:dataTableStore.updateSource(Employees)
               <div class="table-container">
                 <table class="table table-hover">
               
-                  <thead>
+                  <thead on:click={(e) => { dataTableStore.sort(e) }} on:keypress>
                     <tr>
                       <th>user</th>
-                      <th>Id</th>
-                      <th>First name</th>
-                      <th>Last name</th>
-                      <th>Sex</th>
-                      <th>Skill</th>
-                      <th>SkillType</th>
-                      <th>School</th>
-                      <th>School address</th>
-                      <th>Skill level</th>
+                      <th data-sort="emxpId">Id</th>
+                      <th data-sort="FirstName">First name</th>
+                      <th data-sort="LastName">Last name</th>
+                      <th data-sort="Sex">Sex</th>
+                      <th data-sort="Skill">Skill</th>
+                      <th data-sort="SkillType">SkillType</th>
+                      <th data-sort="School">School</th>
+                      <th data-sort="SchoolAdd">School address</th>
+                      <th data-sort="SkillLevel">Skill level</th>
                       
                     </tr>
                   </thead>
